@@ -38,3 +38,13 @@ igama
    name
 isibongo
    surname
+
+Misc
+----
+
+Ubuhle
+   beauty
+Umuhle
+   You're beautiful
+Muhle
+   S/he is beautiful

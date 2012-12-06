@@ -32,3 +32,13 @@ Sakubona Wendy, unjani?
 
 Ibizo lami nguSimon
    My name is Simon
+
+Thanks
+------
+
+Ngiyabonga
+   Thank you
+Siyabonga
+   We thank you
+Sibongile
+   We are thankful
